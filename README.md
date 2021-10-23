@@ -1,11 +1,13 @@
 # TPT2-Scripts and Stuff
 > Just some stuff for a silly game
 
-## My Personal BP + AI [Post-Forge] [Requires 0 XP Disables]
+## My Personal BP + AI [Post-Forge]
 
 __My BP for anything ig__
 
 `Turn on AI after you load into the region`
+
+Note: Replace an unnecessary module with Fire Armor if you don't have 0 xp disables.
 
 BP:
 
