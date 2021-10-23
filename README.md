@@ -1,7 +1,7 @@
 # TPT2-Scripts and Stuff
 > Just some stuff for a silly game
 
-## My Personal BP + AI [Post-Forge]
+## My Personal BP + AI [Post-Forge] [Requires 0 XP Disables]
 
 __My BP for anything ig__
 
