@@ -3,8 +3,9 @@
 
 ## Inf Pushing BP + AI [Pre-Forge]
 
-A modified version of Joking's. Maybe it works, maybe it doesn't. Probably doesn't change much in comparison tbh.
-Era tab order is Light, Divisors, Dark, Earth, Water. 
+A modified version of Joking's. Works about as good as the original. Probably doesn't change much in comparison tbh. Feel free to replace Condense later.
+
+Era tab order is Light, Divisors, Dark, Earth, Water. Tier 38-42 modules should be enough, maybe T35 if you have a lot of damage.
 
 `Turn on AI after you load into the region, there is no impulse key`
 
