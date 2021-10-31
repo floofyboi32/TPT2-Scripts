@@ -3,9 +3,10 @@
 
 ## Inf Pushing BP + AI [Pre-Forge]
 
-A modified version of Joking's. Maybe it works, maybe it doesn't. Probably doesn't change much tbh.
+A modified version of Joking's. Maybe it works, maybe it doesn't. Probably doesn't change much in comparison tbh.
+Disable order is Light, Dark, Earth, Water. 
 
-`Turn on AI after you load into the region`
+`Turn on AI after you load into the region, there is no impulse key`
 
 BP:
 
