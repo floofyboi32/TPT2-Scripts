@@ -3,7 +3,9 @@
 
 ## 90/90 Era/Inf BP + AI
 
-As of the latest update, all the infinity phase bps are dead. Rest in pepperonis, dogecoin. Here is a replacement for the time being, should work, tell me if it doesn't
+As of the latest update, all the infinity phase bps are dead. Rest in pepperonis, dogecoin. Here is a replacement for the time being, should work, tell me if it doesn't.
+
+Necronomicon Artifact is required (it drops from boss 4)
 
 Era disables are Electricity and DMG/HP. That's it. That's all that's required. You can disable whatever else you want to though, doesn't matter.
 
