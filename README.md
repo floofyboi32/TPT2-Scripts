@@ -7,7 +7,7 @@ As of the latest update, all the infinity phase bps are dead. Rest in pepperonis
 
 Necronomicon Artifact is required (it drops from boss 4)
 
-Era disables are Electricity, Universal, and DMG/HP. Water and Earth are also options if you have the xp for it.
+Era disables are Electricity, Universal, DMG/HP, and Fire. Water and/or Earth are also options if you have the xp for it.
 
 `Impulse is New Round, so have the AI on before starting Tower Testing`
 
